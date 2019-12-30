@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // add polynomial
+// comment
 typedef struct Polynomial {
     int coeff;
     int expo;
