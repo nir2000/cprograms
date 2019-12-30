@@ -3,7 +3,7 @@ int main()
 {
 	int  num, r, sum=0, flag;
 
-	printf("Enter number: ");
+	printf("Enter number for armstrong: ");
 	scanf("%d", &num);
 	flag = num;
 	while(num > 0)
