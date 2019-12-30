@@ -7,7 +7,7 @@ typedef struct Polynomial {
     int expo;
 } p;
 
-p p1[10],p2[10],p3[10];
+p p1[10],p2[20],p3[10];
 
 int readPolynomial(p p1[]) {
     int n, i;
